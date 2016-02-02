@@ -1,0 +1,24 @@
+<!-- doc/src/sgml/jptranslator.sgml -->
+
+<sect1 id="jptranslator" xreflabel="jptranslator">
+ <title>jptranslator</title>
+
+ <indexterm zone="jptranslator">
+  <primary>jptranslator</primary>
+ </indexterm>
+
+ <sect2>
+ <para>
+PostgreSQL9.5ドキュメント翻訳者
+
+noboruu
+
+
+
+
+
+  </para>
+
+ </sect2>
+
+</sect1>

@@ -162,6 +162,7 @@
 <!ENTITY features   SYSTEM "features.sgml">
 <!ENTITY keywords   SYSTEM "keywords.sgml">
 <!ENTITY sourcerepo SYSTEM "sourcerepo.sgml">
+<!ENTITY jptranslator SYSTEM "jptranslator.sgml">
 
 <!ENTITY release    SYSTEM "release.sgml">
 <!ENTITY release-9.5    SYSTEM "release-9.5.sgml">
